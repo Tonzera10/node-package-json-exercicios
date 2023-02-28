@@ -1,0 +1,20 @@
+{
+  "name": "everton-mello-barbosa",
+  "version": "1.0.0",
+  "description": "Exercicios da aula de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonzera10/node-package-json-exercicios.git"
+  },
+  "author": "Everton mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonzera10/node-package-json-exercicios/issues"
+  },
+  "homepage": "https://github.com/Tonzera10/node-package-json-exercicios#readme"
+}
